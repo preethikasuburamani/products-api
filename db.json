@@ -40,7 +40,7 @@
     { "id": 3, "title": "Dell Laptop", "price": 1200, "categoryId": 1, "stock": 8, "rating": 4.5, "image": "/images/dell.png" },
     { "id": 4, "title": "Bluetooth Speaker", "price": 120, "categoryId": 1, "stock": 30, "rating": 4.3, "image": "/images/bluetooth.png" },
     { "id": 5, "title": "Wireless Headphones", "price": 150, "categoryId": 1, "stock": 20, "rating": 4.4, "image": "/images/wirelessHeadphone.png" },
-    { "id": 6, "title": "Mechanical Keyboard", "price": 110, "categoryId": 1, "stock": 18, "rating": 4.6, "image": "/images/keyboard.png" },
+,
 
 
     { "id": 7, "title": "Leather Jacket", "price": 150, "categoryId": 2, "stock": 12, "rating": 4.6, "image": "/images/fashion/leatherjacket.png" },
